@@ -16,5 +16,13 @@
 	public boolean getisHardcover() {
 	return isHardcover;
 	}
+	
+	public void settitle(String title) {
+	this.title = title;
+	}
+
+	public String gettitle() {
+	return title;
+	}
  } 
 		
